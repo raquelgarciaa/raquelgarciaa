@@ -8,7 +8,7 @@ Me chamo Raquel e busco ser uma desenvolvedora front-end
 </div>
   
 # Tecnologias 
-<div style=" height="50" ">
+<div height="50" >
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
