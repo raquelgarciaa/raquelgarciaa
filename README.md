@@ -16,6 +16,7 @@ Me chamo Raquel e busco ser uma desenvolvedora front-end
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
+
 # Contato
 <div>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
