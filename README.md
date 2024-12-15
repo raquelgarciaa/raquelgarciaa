@@ -1,5 +1,5 @@
 ## Olá, bem vindo(a) ao meu perfil 👋
-Me chamo Raquel e busco ser uma desenvolvedora front-end
+Sou Raquel e busco ser designer e desenvolvedora front-end :) 
 
 <div>
 <a href="https://github.com/raquelgarciaa">
